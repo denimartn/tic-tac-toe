@@ -8,7 +8,7 @@ Learn the basics of Angular.
 <br/>
 This is one the first Angular app I've realized when I started learning it. 👩‍🔧
 
-## Screenshots
+## Screenshot
 
 <img src="https://i.postimg.cc/gkQq32Lh/33333.png">
 
